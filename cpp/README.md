@@ -1,0 +1,3 @@
+# Example CPP inference
+## Adapted from [# TensorFlow Lite C++ image classification demo](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite/examples/label_image)
+### This sample shows running inference in tensorflow lite on a static image. To incorporate within android, modify `platform/frameworks/av/services/camera/libcameraservice/device3/` and build [aosp](https://source.android.com/docs/setup/reference/build-numbers)
